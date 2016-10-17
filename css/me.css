@@ -286,3 +286,7 @@
     align-content: space-around;
   }
 }
+
+._tlc {
+  text-transform: lowercase;
+}
