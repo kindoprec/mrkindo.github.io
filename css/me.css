@@ -4,3 +4,8 @@ body{background:#2d2e2e;color:#979899;}h1,h2,h3,h4,h5,h6{color:#a4a5a6;}.t-link-
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
 }
+.o-media__figure_year {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.hidden {display: none!important; visibility: hidden!important;}
