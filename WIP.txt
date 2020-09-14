@@ -1,0 +1,18 @@
+<div class="o-grid__col-sm-12">
+                                <div class="o-media o-media--block o-content">
+                                    <div class="o-media__figure_year">
+                                        <div class="c-number t-primary-color">03/2014 – 01/2015</div>
+                                    </div>
+                                    <div class="o-media__body o-content__body">
+                                        <h3>Freelancing</h3>
+                                        <h4>Full-stack Engineer</h4>
+                                        <ul>
+                                            <li>Worked with a small team to scale a car rental app using JavaScript to search
+                                                and book rentals, used Comet polling on owner’s dashboard to view real-time
+                                                ride orders.
+                                            </li>
+                                        </ul>
+                                        <p><strong>Tools:</strong> Javascript, AngularJs, Typescript, Python, MySQL</p>
+                                    </div>
+                                </div>
+                            </div>
